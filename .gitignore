@@ -1,0 +1,5 @@
+build
+dist
+*.class
+testfiles/out.xls
+singlejar
